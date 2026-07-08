@@ -1,4 +1,4 @@
-def CountDigits(no):
+def CountDigit(no):
     count = 0
 
     while no > 0:
@@ -8,4 +8,4 @@ def CountDigits(no):
     print("Count of digits is:", count)
 
 num = int(input("Enter a number: "))
-CountDigits(num)
+CountDigit(num)
