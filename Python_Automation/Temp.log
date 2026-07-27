@@ -1,0 +1,927 @@
+-------------------------------------
+{'pid': 0, 'status': 'running', 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System Idle Process', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=0, name='System Idle Process', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4, 'status': 'running', 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4, name='System', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 176, 'status': 'running', 'username': None, 'name': 'Registry', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=176, name='Registry', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 612, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=612, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 640, 'status': 'running', 'username': None, 'name': 'smss.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=640, name='smss.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1020, 'status': 'running', 'username': None, 'name': 'csrss.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1020, name='csrss.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1056, 'status': 'running', 'username': None, 'name': 'wininit.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1056, name='wininit.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1128, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1128, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1176, 'status': 'running', 'username': None, 'name': 'services.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1176, name='services.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1208, 'status': 'running', 'username': None, 'name': 'lsass.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1208, name='lsass.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1348, 'status': 'running', 'username': None, 'name': 'fontdrvhost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1348, name='fontdrvhost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1364, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1364, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1404, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1404, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1476, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1476, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1480, 'status': 'running', 'username': None, 'name': 'WUDFHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1480, name='WUDFHost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1500, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1500, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1552, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1552, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1636, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1636, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1720, 'status': 'running', 'username': None, 'name': 'WUDFHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1720, name='WUDFHost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1796, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1796, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1824, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1824, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1848, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1848, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1872, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1872, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 1976, 'status': 'running', 'username': None, 'name': 'WmiApSrv.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=1976, name='WmiApSrv.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2028, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2028, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2164, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'AvastUI.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2164, name='AvastUI.exe', status='running', started='17:24:55')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2188, 'status': 'running', 'username': None, 'name': 'IntelCpHDCPSvc.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2188, name='IntelCpHDCPSvc.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2196, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2196, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2228, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2228, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2264, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'QHSafeTray.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2264, name='QHSafeTray.exe', status='running', started='17:22:08')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2276, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2276, name='svchost.exe', status='running', started='17:24:33')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2292, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2292, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2312, 'status': 'running', 'username': None, 'name': 'WUDFHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2312, name='WUDFHost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2320, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2320, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2340, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2340, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2372, 'status': 'running', 'username': None, 'name': 'conhost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2372, name='conhost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2384, 'status': 'running', 'username': None, 'name': 'AppProvisioningPlugin.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2384, name='AppProvisioningPlugin.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2420, 'status': 'running', 'username': None, 'name': 'IdleScheduleEventAction.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2420, name='IdleScheduleEventAction.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2436, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2436, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2544, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2544, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2632, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2632, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2844, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2844, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2872, 'status': 'running', 'username': None, 'name': 'NVDisplay.Container.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2872, name='NVDisplay.Container.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2920, 'status': 'running', 'username': None, 'name': 'WUDFHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2920, name='WUDFHost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2976, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2976, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 2984, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=2984, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3016, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3016, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3060, 'status': 'running', 'username': None, 'name': 'igfxCUIServiceN.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3060, name='igfxCUIServiceN.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3096, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3096, name='chrome.exe', status='running', started='17:20:48')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3116, 'status': 'running', 'username': None, 'name': 'wsc_proxy.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3116, name='wsc_proxy.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3140, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3140, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3188, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3188, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3340, 'status': 'running', 'username': None, 'name': 'MemCompression', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3340, name='MemCompression', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3444, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3444, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3464, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3464, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3476, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3476, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3584, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3584, name='Code.exe', status='running', started='17:21:21')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3592, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3592, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3596, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3596, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3624, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'sihost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3624, name='sihost.exe', status='running', started='17:19:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3632, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3632, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3648, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3648, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3660, 'status': 'running', 'username': None, 'name': 'Lenovo.Modern.ImController.PluginHost.Device.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3660, name='Lenovo.Modern.ImController.PluginHost.Device.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3704, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3704, name='chrome.exe', status='running', started='17:20:46')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3748, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3748, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3772, 'status': 'running', 'username': None, 'name': 'QHActiveDefense.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3772, name='QHActiveDefense.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3876, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3876, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 3892, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=3892, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4048, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4048, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4100, 'status': 'running', 'username': None, 'name': 'AvastSvc.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4100, name='AvastSvc.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4120, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4120, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4184, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4184, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4344, 'status': 'running', 'username': None, 'name': 'QHWatchdog.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4344, name='QHWatchdog.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4384, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4384, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4528, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4528, name='msedgewebview2.exe', status='running', started='17:22:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4580, 'status': 'running', 'username': None, 'name': 'WmiPrvSE.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4580, name='WmiPrvSE.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4612, 'status': 'running', 'username': None, 'name': 'aswToolsSvc.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4612, name='aswToolsSvc.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4656, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4656, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4812, 'status': 'running', 'username': None, 'name': 'spoolsv.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4812, name='spoolsv.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 4988, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=4988, name='chrome.exe', status='running', started='17:20:46')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5004, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5004, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5032, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5032, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5060, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5060, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5184, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5184, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5192, 'status': 'running', 'username': None, 'name': 'OfficeClickToRun.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5192, name='OfficeClickToRun.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5204, 'status': 'running', 'username': None, 'name': 'CCleaner_service.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5204, name='CCleaner_service.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5212, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5212, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5232, 'status': 'running', 'username': None, 'name': 'GameInputRedistService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5232, name='GameInputRedistService.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5340, 'status': 'running', 'username': None, 'name': 'esif_uf.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5340, name='esif_uf.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5352, 'status': 'running', 'username': None, 'name': 'OneApp.IGCC.WinService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5352, name='OneApp.IGCC.WinService.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5420, 'status': 'running', 'username': None, 'name': 'IntelAudioService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5420, name='IntelAudioService.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5432, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5432, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5452, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5452, name='Code.exe', status='running', started='17:21:01')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5456, 'status': 'running', 'username': None, 'name': 'jhi_service.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5456, name='jhi_service.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5492, 'status': 'running', 'username': None, 'name': 'LenovoVantageService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5492, name='LenovoVantageService.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5500, 'status': 'running', 'username': None, 'name': 'NahimicService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5500, name='NahimicService.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5552, 'status': 'running', 'username': None, 'name': 'LenovoUtilityService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5552, name='LenovoUtilityService.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5560, 'status': 'running', 'username': None, 'name': 'RtkAudUService64.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5560, name='RtkAudUService64.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5724, 'status': 'running', 'username': None, 'name': 'tssvc.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5724, name='tssvc.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5732, 'status': 'running', 'username': None, 'name': 'RstMwService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5732, name='RstMwService.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5748, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5748, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5760, 'status': 'running', 'username': None, 'name': 'UDClientService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5760, name='UDClientService.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5768, 'status': 'running', 'username': None, 'name': 'tallygatewayserver.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5768, name='tallygatewayserver.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5872, 'status': 'running', 'username': None, 'name': 'vmnetdhcp.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5872, name='vmnetdhcp.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5880, 'status': 'running', 'username': None, 'name': 'vmware-authd.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5880, name='vmware-authd.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5904, 'status': 'running', 'username': None, 'name': 'vmware-usbarbitrator64.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5904, name='vmware-usbarbitrator64.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5912, 'status': 'running', 'username': None, 'name': 'vmnat.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5912, name='vmnat.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5928, 'status': 'running', 'username': None, 'name': 'WMIRegistrationService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5928, name='WMIRegistrationService.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 5940, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=5940, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 6796, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'WindowsTerminal.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=6796, name='WindowsTerminal.exe', status='running', started='17:21:12')>}
+-------------------------------------
+-------------------------------------
+{'pid': 6832, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=6832, name='RuntimeBroker.exe', status='running', started='17:20:35')>}
+-------------------------------------
+-------------------------------------
+{'pid': 6884, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=6884, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 6968, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Lively.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=6968, name='Lively.exe', status='running', started='17:20:32')>}
+-------------------------------------
+-------------------------------------
+{'pid': 7092, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=7092, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 7100, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=7100, name='Code.exe', status='running', started='17:21:01')>}
+-------------------------------------
+-------------------------------------
+{'pid': 7864, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=7864, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8116, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8116, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8368, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8368, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8388, 'status': 'stopped', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'EdgeGameAssist.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8388, name='EdgeGameAssist.exe', status='stopped', started='17:21:44')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8392, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'LenovoNow.Task.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8392, name='LenovoNow.Task.exe', status='running', started='17:24:55')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8440, 'status': 'running', 'username': None, 'name': 'gamingservicesnet.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8440, name='gamingservicesnet.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8448, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8448, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8464, 'status': 'running', 'username': None, 'name': 'gamingservices.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8464, name='gamingservices.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8508, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8508, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8544, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8544, name='msedgewebview2.exe', status='running', started='17:22:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8644, 'status': 'running', 'username': None, 'name': 'elevation_service.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8644, name='elevation_service.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 8840, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'unsecapp.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=8840, name='unsecapp.exe', status='running', started='17:19:57')>}
+-------------------------------------
+-------------------------------------
+{'pid': 9148, 'status': 'running', 'username': None, 'name': 'AggregatorHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=9148, name='AggregatorHost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 9412, 'status': 'running', 'username': None, 'name': 'elevation_service.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=9412, name='elevation_service.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 9612, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=9612, name='msedgewebview2.exe', status='running', started='17:20:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 9660, 'status': 'running', 'username': None, 'name': 'SearchIndexer.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=9660, name='SearchIndexer.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 9700, 'status': 'stopped', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'LockApp.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=9700, name='LockApp.exe', status='stopped', started='17:33:57')>}
+-------------------------------------
+-------------------------------------
+{'pid': 9844, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=9844, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 10008, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=10008, name='svchost.exe', status='running', started='20:04:06')>}
+-------------------------------------
+-------------------------------------
+{'pid': 10116, 'status': 'stopped', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'SpotifyXboxGamebarWebView.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=10116, name='SpotifyXboxGamebarWebView.exe', status='stopped', started='17:21:42')>}
+-------------------------------------
+-------------------------------------
+{'pid': 10220, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'crashpad_handler.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=10220, name='crashpad_handler.exe', status='running', started='17:20:12')>}
+-------------------------------------
+-------------------------------------
+{'pid': 10332, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedge.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=10332, name='msedge.exe', status='running', started='18:21:51')>}
+-------------------------------------
+-------------------------------------
+{'pid': 10600, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=10600, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 10624, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'python.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=10624, name='python.exe', status='running', started='17:21:21')>}
+-------------------------------------
+-------------------------------------
+{'pid': 10632, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'conhost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=10632, name='conhost.exe', status='running', started='17:21:21')>}
+-------------------------------------
+-------------------------------------
+{'pid': 10684, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=10684, name='RuntimeBroker.exe', status='running', started='17:20:11')>}
+-------------------------------------
+-------------------------------------
+{'pid': 10784, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=10784, name='msedgewebview2.exe', status='running', started='17:22:02')>}
+-------------------------------------
+-------------------------------------
+{'pid': 10912, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=10912, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11060, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11060, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11144, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11144, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11348, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'conhost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11348, name='conhost.exe', status='running', started='17:21:21')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11448, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11448, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11460, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RtkAudUService64.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11460, name='RtkAudUService64.exe', status='running', started='17:20:19')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11540, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11540, name='svchost.exe', status='running', started='17:23:07')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11564, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'mscopilot.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11564, name='mscopilot.exe', status='running', started='17:20:29')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11684, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11684, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11708, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'XboxPcTray.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11708, name='XboxPcTray.exe', status='running', started='17:21:30')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11736, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'conhost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11736, name='conhost.exe', status='running', started='17:21:21')>}
+-------------------------------------
+-------------------------------------
+{'pid': 11748, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=11748, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 12480, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'explorer.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=12480, name='explorer.exe', status='running', started='17:19:55')>}
+-------------------------------------
+-------------------------------------
+{'pid': 12500, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'QSHelper.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=12500, name='QSHelper.exe', status='running', started='17:20:22')>}
+-------------------------------------
+-------------------------------------
+{'pid': 12528, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=12528, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 12636, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'AvastUI.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=12636, name='AvastUI.exe', status='running', started='17:24:55')>}
+-------------------------------------
+-------------------------------------
+{'pid': 12644, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=12644, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 13176, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=13176, name='msedgewebview2.exe', status='running', started='17:20:02')>}
+-------------------------------------
+-------------------------------------
+{'pid': 13188, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'igfxEMN.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=13188, name='igfxEMN.exe', status='running', started='17:19:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 13300, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=13300, name='msedgewebview2.exe', status='running', started='17:20:01')>}
+-------------------------------------
+-------------------------------------
+{'pid': 13316, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'ctfmon.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=13316, name='ctfmon.exe', status='running', started='17:20:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 13452, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=13452, name='msedgewebview2.exe', status='running', started='17:22:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 13580, 'status': 'stopped', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Nahimic3.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=13580, name='Nahimic3.exe', status='stopped', started='17:20:39')>}
+-------------------------------------
+-------------------------------------
+{'pid': 13652, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'NahimicSvc64.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=13652, name='NahimicSvc64.exe', status='running', started='17:19:58')>}
+-------------------------------------
+-------------------------------------
+{'pid': 13840, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=13840, name='RuntimeBroker.exe', status='running', started='20:04:15')>}
+-------------------------------------
+-------------------------------------
+{'pid': 13872, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=13872, name='Code.exe', status='running', started='17:21:01')>}
+-------------------------------------
+-------------------------------------
+{'pid': 13916, 'status': 'running', 'username': None, 'name': 'aswEngSrv.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=13916, name='aswEngSrv.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 14052, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=14052, name='svchost.exe', status='running', started='17:19:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 14088, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=14088, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 14412, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=14412, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 14532, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=14532, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 14572, 'status': 'running', 'username': None, 'name': 'wlanext.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=14572, name='wlanext.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 14800, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'StartMenuExperienceHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=14800, name='StartMenuExperienceHost.exe', status='running', started='17:20:00')>}
+-------------------------------------
+-------------------------------------
+{'pid': 14908, 'status': 'running', 'username': None, 'name': 'GameInputSvc.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=14908, name='GameInputSvc.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 15200, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'mscopilot.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=15200, name='mscopilot.exe', status='running', started='17:20:29')>}
+-------------------------------------
+-------------------------------------
+{'pid': 15484, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=15484, name='chrome.exe', status='running', started='17:20:47')>}
+-------------------------------------
+-------------------------------------
+{'pid': 15500, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'GameInputRedistService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=15500, name='GameInputRedistService.exe', status='running', started='17:19:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 15544, 'status': 'running', 'username': None, 'name': 'unsecapp.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=15544, name='unsecapp.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 15884, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=15884, name='svchost.exe', status='running', started='17:19:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 15968, 'status': 'stopped', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'SystemSettings.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=15968, name='SystemSettings.exe', status='stopped', started='17:28:09')>}
+-------------------------------------
+-------------------------------------
+{'pid': 16020, 'status': 'running', 'username': None, 'name': 'LenovoVantage-(VantageCoreAddin).exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=16020, name='LenovoVantage-(VantageCoreAddin).exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 16172, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'FileCoAuth.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=16172, name='FileCoAuth.exe', status='running', started='17:55:34')>}
+-------------------------------------
+-------------------------------------
+{'pid': 16220, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=16220, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 16280, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'UserOOBEBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=16280, name='UserOOBEBroker.exe', status='running', started='17:28:12')>}
+-------------------------------------
+-------------------------------------
+{'pid': 16448, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'pixelsee_crashpad_handler.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=16448, name='pixelsee_crashpad_handler.exe', status='running', started='17:20:23')>}
+-------------------------------------
+-------------------------------------
+{'pid': 16520, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'mscopilot.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=16520, name='mscopilot.exe', status='running', started='17:20:29')>}
+-------------------------------------
+-------------------------------------
+{'pid': 16524, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'mscopilot.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=16524, name='mscopilot.exe', status='running', started='17:20:29')>}
+-------------------------------------
+-------------------------------------
+{'pid': 16596, 'status': 'running', 'username': None, 'name': 'winlogon.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=16596, name='winlogon.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 16712, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=16712, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 17144, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=17144, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 17188, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=17188, name='RuntimeBroker.exe', status='running', started='17:25:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 17352, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=17352, name='msedgewebview2.exe', status='running', started='17:26:55')>}
+-------------------------------------
+-------------------------------------
+{'pid': 17360, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedge.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=17360, name='msedge.exe', status='running', started='18:21:49')>}
+-------------------------------------
+-------------------------------------
+{'pid': 17452, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'SearchHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=17452, name='SearchHost.exe', status='running', started='17:20:00')>}
+-------------------------------------
+-------------------------------------
+{'pid': 17536, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'SDXHelper.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=17536, name='SDXHelper.exe', status='running', started='20:03:19')>}
+-------------------------------------
+-------------------------------------
+{'pid': 17560, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'CrossDeviceResume.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=17560, name='CrossDeviceResume.exe', status='running', started='17:19:57')>}
+-------------------------------------
+-------------------------------------
+{'pid': 17692, 'status': 'running', 'username': None, 'name': 'LenovoVantage-(LenovoGamingSystemAddin).exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=17692, name='LenovoVantage-(LenovoGamingSystemAddin).exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 17876, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=17876, name='chrome.exe', status='running', started='17:20:47')>}
+-------------------------------------
+-------------------------------------
+{'pid': 18200, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Widgets.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=18200, name='Widgets.exe', status='running', started='17:20:00')>}
+-------------------------------------
+-------------------------------------
+{'pid': 18408, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'mscopilot.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=18408, name='mscopilot.exe', status='running', started='17:20:29')>}
+-------------------------------------
+-------------------------------------
+{'pid': 18424, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'NahimicSvc32.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=18424, name='NahimicSvc32.exe', status='running', started='17:19:58')>}
+-------------------------------------
+-------------------------------------
+{'pid': 18428, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=18428, name='msedgewebview2.exe', status='running', started='17:20:02')>}
+-------------------------------------
+-------------------------------------
+{'pid': 18616, 'status': 'running', 'username': None, 'name': 'audiodg.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=18616, name='audiodg.exe', status='running', started='19:56:23')>}
+-------------------------------------
+-------------------------------------
+{'pid': 18788, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'ShellHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=18788, name='ShellHost.exe', status='running', started='18:10:00')>}
+-------------------------------------
+-------------------------------------
+{'pid': 18940, 'status': 'running', 'username': None, 'name': 'SecurityHealthService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=18940, name='SecurityHealthService.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 19160, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'vmware-tray.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=19160, name='vmware-tray.exe', status='running', started='17:22:01')>}
+-------------------------------------
+-------------------------------------
+{'pid': 19188, 'status': 'running', 'username': None, 'name': 'LenovoVantage-(GenericTelemetryAddin).exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=19188, name='LenovoVantage-(GenericTelemetryAddin).exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 19508, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'QtWebEngineProcess.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=19508, name='QtWebEngineProcess.exe', status='running', started='17:20:24')>}
+-------------------------------------
+-------------------------------------
+{'pid': 19552, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=19552, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 19852, 'status': 'running', 'username': None, 'name': 'BraveUpdate.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=19852, name='BraveUpdate.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 19920, 'status': 'running', 'username': None, 'name': 'BraveCrashHandler.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=19920, name='BraveCrashHandler.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 19940, 'status': 'running', 'username': None, 'name': 'BraveCrashHandler64.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=19940, name='BraveCrashHandler64.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20088, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedge.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20088, name='msedge.exe', status='running', started='18:21:51')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20152, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'python.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20152, name='python.exe', status='running', started='17:21:21')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20224, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20224, name='svchost.exe', status='running', started='17:20:04')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20268, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'pixelsee.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20268, name='pixelsee.exe', status='running', started='17:20:23')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20388, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'python.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20388, name='python.exe', status='running', started='20:04:42')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20404, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20404, name='Code.exe', status='running', started='17:21:04')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20436, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20436, name='Code.exe', status='running', started='17:21:12')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20512, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'conhost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20512, name='conhost.exe', status='running', started='17:20:05')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20644, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20644, name='chrome.exe', status='running', started='17:59:08')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20696, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20696, name='msedgewebview2.exe', status='running', started='17:22:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20756, 'status': 'running', 'username': None, 'name': 'Locator.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20756, name='Locator.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 20976, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=20976, name='RuntimeBroker.exe', status='running', started='17:20:00')>}
+-------------------------------------
+-------------------------------------
+{'pid': 21168, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'WhatsApp.Root.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=21168, name='WhatsApp.Root.exe', status='running', started='17:20:52')>}
+-------------------------------------
+-------------------------------------
+{'pid': 21448, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'python.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=21448, name='python.exe', status='running', started='17:21:21')>}
+-------------------------------------
+-------------------------------------
+{'pid': 21488, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=21488, name='chrome.exe', status='running', started='17:20:47')>}
+-------------------------------------
+-------------------------------------
+{'pid': 21672, 'status': 'running', 'username': None, 'name': 'WmiPrvSE.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=21672, name='WmiPrvSE.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 21720, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'CCleaner.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=21720, name='CCleaner.exe', status='running', started='17:19:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 21828, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=21828, name='RuntimeBroker.exe', status='running', started='17:20:53')>}
+-------------------------------------
+-------------------------------------
+{'pid': 21888, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=21888, name='chrome.exe', status='running', started='17:59:08')>}
+-------------------------------------
+-------------------------------------
+{'pid': 21976, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'OpenConsole.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=21976, name='OpenConsole.exe', status='running', started='17:21:08')>}
+-------------------------------------
+-------------------------------------
+{'pid': 22024, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'powershell.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=22024, name='powershell.exe', status='running', started='17:21:08')>}
+-------------------------------------
+-------------------------------------
+{'pid': 22036, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'powershell.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=22036, name='powershell.exe', status='running', started='17:21:08')>}
+-------------------------------------
+-------------------------------------
+{'pid': 22168, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'OneDrive.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=22168, name='OneDrive.exe', status='running', started='17:20:20')>}
+-------------------------------------
+-------------------------------------
+{'pid': 22184, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=22184, name='RuntimeBroker.exe', status='running', started='17:20:39')>}
+-------------------------------------
+-------------------------------------
+{'pid': 22452, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=22452, name='Code.exe', status='running', started='17:21:20')>}
+-------------------------------------
+-------------------------------------
+{'pid': 22460, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=22460, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 22796, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=22796, name='RuntimeBroker.exe', status='running', started='17:33:58')>}
+-------------------------------------
+-------------------------------------
+{'pid': 23048, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=23048, name='msedgewebview2.exe', status='running', started='17:20:53')>}
+-------------------------------------
+-------------------------------------
+{'pid': 23136, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=23136, name='chrome.exe', status='running', started='17:59:47')>}
+-------------------------------------
+-------------------------------------
+{'pid': 23744, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=23744, name='Code.exe', status='running', started='17:21:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 23788, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=23788, name='msedgewebview2.exe', status='running', started='17:20:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 23832, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'python.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=23832, name='python.exe', status='running', started='17:21:28')>}
+-------------------------------------
+-------------------------------------
+{'pid': 23884, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'AvastUI.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=23884, name='AvastUI.exe', status='running', started='17:20:19')>}
+-------------------------------------
+-------------------------------------
+{'pid': 23908, 'status': 'stopped', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'backgroundTaskHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=23908, name='backgroundTaskHost.exe', status='stopped', started='18:49:48')>}
+-------------------------------------
+-------------------------------------
+{'pid': 24148, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=24148, name='RuntimeBroker.exe', status='running', started='17:22:06')>}
+-------------------------------------
+-------------------------------------
+{'pid': 24220, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'OpenConsole.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=24220, name='OpenConsole.exe', status='running', started='17:21:12')>}
+-------------------------------------
+-------------------------------------
+{'pid': 24436, 'status': 'running', 'username': None, 'name': 'Lenovo.Modern.ImController.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=24436, name='Lenovo.Modern.ImController.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 24460, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=24460, name='msedgewebview2.exe', status='running', started='17:20:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 24708, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'MessagingPlugin.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=24708, name='MessagingPlugin.exe', status='running', started='17:20:05')>}
+-------------------------------------
+-------------------------------------
+{'pid': 24848, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'AvastUI.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=24848, name='AvastUI.exe', status='running', started='17:24:55')>}
+-------------------------------------
+-------------------------------------
+{'pid': 25664, 'status': 'running', 'username': None, 'name': 'GameInputSvc.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=25664, name='GameInputSvc.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 25680, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'conhost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=25680, name='conhost.exe', status='running', started='17:21:11')>}
+-------------------------------------
+-------------------------------------
+{'pid': 25860, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=25860, name='msedgewebview2.exe', status='running', started='17:20:02')>}
+-------------------------------------
+-------------------------------------
+{'pid': 26088, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'OpenConsole.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=26088, name='OpenConsole.exe', status='running', started='17:21:17')>}
+-------------------------------------
+-------------------------------------
+{'pid': 26092, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=26092, name='msedgewebview2.exe', status='running', started='17:20:02')>}
+-------------------------------------
+-------------------------------------
+{'pid': 26120, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'powershell.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=26120, name='powershell.exe', status='running', started='17:21:18')>}
+-------------------------------------
+-------------------------------------
+{'pid': 26164, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'conhost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=26164, name='conhost.exe', status='running', started='17:21:16')>}
+-------------------------------------
+-------------------------------------
+{'pid': 26260, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'backgroundTaskHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=26260, name='backgroundTaskHost.exe', status='running', started='17:25:01')>}
+-------------------------------------
+-------------------------------------
+{'pid': 26284, 'status': 'running', 'username': None, 'name': 'fontdrvhost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=26284, name='fontdrvhost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 26356, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'nahimicNotifSys.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=26356, name='nahimicNotifSys.exe', status='running', started='17:20:24')>}
+-------------------------------------
+-------------------------------------
+{'pid': 26788, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=26788, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 26812, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedge.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=26812, name='msedge.exe', status='running', started='18:21:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 27368, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'SecurityHealthSystray.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=27368, name='SecurityHealthSystray.exe', status='running', started='17:20:18')>}
+-------------------------------------
+-------------------------------------
+{'pid': 27636, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'FnHotkeyCapsLKNumLK.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=27636, name='FnHotkeyCapsLKNumLK.exe', status='running', started='17:19:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 27644, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=27644, name='msedgewebview2.exe', status='running', started='17:20:02')>}
+-------------------------------------
+-------------------------------------
+{'pid': 27724, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=27724, name='Code.exe', status='running', started='17:21:14')>}
+-------------------------------------
+-------------------------------------
+{'pid': 27840, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=27840, name='Code.exe', status='running', started='17:21:01')>}
+-------------------------------------
+-------------------------------------
+{'pid': 27972, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'CrossDeviceService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=27972, name='CrossDeviceService.exe', status='running', started='17:19:58')>}
+-------------------------------------
+-------------------------------------
+{'pid': 28228, 'status': 'running', 'username': None, 'name': 'MicrosoftEdgeUpdate.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=28228, name='MicrosoftEdgeUpdate.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 28320, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=28320, name='Code.exe', status='running', started='17:21:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 28372, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'unsecapp.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=28372, name='unsecapp.exe', status='running', started='17:19:55')>}
+-------------------------------------
+-------------------------------------
+{'pid': 29024, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=29024, name='msedgewebview2.exe', status='running', started='17:22:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 29064, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'SpotifyLauncher.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=29064, name='SpotifyLauncher.exe', status='running', started='17:20:11')>}
+-------------------------------------
+-------------------------------------
+{'pid': 29192, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'conhost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=29192, name='conhost.exe', status='running', started='17:21:28')>}
+-------------------------------------
+-------------------------------------
+{'pid': 29224, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=29224, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 29524, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=29524, name='chrome.exe', status='running', started='17:20:47')>}
+-------------------------------------
+-------------------------------------
+{'pid': 29592, 'status': 'running', 'username': None, 'name': 'WmiPrvSE.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=29592, name='WmiPrvSE.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 29736, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'LenovoVantage-(GenericMessagingAddin).exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=29736, name='LenovoVantage-(GenericMessagingAddin).exe', status='running', started='17:24:56')>}
+-------------------------------------
+-------------------------------------
+{'pid': 29764, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=29764, name='chrome.exe', status='running', started='17:20:47')>}
+-------------------------------------
+-------------------------------------
+{'pid': 29856, 'status': 'running', 'username': None, 'name': 'NVDisplay.Container.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=29856, name='NVDisplay.Container.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 29864, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=29864, name='svchost.exe', status='running', started='17:20:00')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30024, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'ApplicationFrameHost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30024, name='ApplicationFrameHost.exe', status='running', started='17:20:39')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30044, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedge.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30044, name='msedge.exe', status='running', started='18:21:51')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30144, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'XboxPcAppFT.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30144, name='XboxPcAppFT.exe', status='running', started='17:21:31')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30224, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'FnHotkeyUtility.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30224, name='FnHotkeyUtility.exe', status='running', started='17:19:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30300, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30300, name='Code.exe', status='running', started='17:21:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30412, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'cmd.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30412, name='cmd.exe', status='running', started='17:21:11')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30540, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30540, name='Code.exe', status='running', started='17:21:01')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30588, 'status': 'running', 'username': None, 'name': 'dwm.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30588, name='dwm.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30676, 'status': 'running', 'username': None, 'name': 'WmiPrvSE.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30676, name='WmiPrvSE.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30892, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'OpenConsole.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30892, name='OpenConsole.exe', status='running', started='17:21:08')>}
+-------------------------------------
+-------------------------------------
+{'pid': 30944, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=30944, name='svchost.exe', status='running', started='17:19:59')>}
+-------------------------------------
+-------------------------------------
+{'pid': 31104, 'status': 'running', 'username': None, 'name': 'svchost.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=31104, name='svchost.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 31192, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'msedgewebview2.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=31192, name='msedgewebview2.exe', status='running', started='17:20:53')>}
+-------------------------------------
+-------------------------------------
+{'pid': 31472, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=31472, name='RuntimeBroker.exe', status='running', started='18:49:48')>}
+-------------------------------------
+-------------------------------------
+{'pid': 31752, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'RuntimeBroker.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=31752, name='RuntimeBroker.exe', status='running', started='17:20:01')>}
+-------------------------------------
+-------------------------------------
+{'pid': 31760, 'status': 'running', 'username': None, 'name': 'csrss.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=31760, name='csrss.exe', status='running')>}
+-------------------------------------
+-------------------------------------
+{'pid': 31768, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'Code.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=31768, name='Code.exe', status='running', started='17:21:03')>}
+-------------------------------------
+-------------------------------------
+{'pid': 32144, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'WidgetService.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=32144, name='WidgetService.exe', status='running', started='17:20:01')>}
+-------------------------------------
+-------------------------------------
+{'pid': 32264, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'pet.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=32264, name='pet.exe', status='running', started='17:21:16')>}
+-------------------------------------
+-------------------------------------
+{'pid': 32268, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'taskhostw.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=32268, name='taskhostw.exe', status='running', started='17:19:54')>}
+-------------------------------------
+-------------------------------------
+{'pid': 32596, 'status': 'running', 'username': 'LAPTOP-DFABNT7R\\ADITI PATIL', 'name': 'chrome.exe', 'cpu_percent': 0.0, 'memory_percent': <bound method Process.memory_percent of psutil.Process(pid=32596, name='chrome.exe', status='running', started='17:20:47')>}
+-------------------------------------
+--------------------------------------------------
+------Marvellous Platfrom Survellience System------
+--------------------------------------------------
+Invalid number of arguments
+Unable to process as argument are not matching
+Please use --h or --u flag for getting more details
+--------------------------------------------------
+------Thank You for Using our Automation System------
+--------------------------------------------------
