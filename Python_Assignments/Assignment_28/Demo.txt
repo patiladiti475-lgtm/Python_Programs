@@ -1,0 +1,5 @@
+Hello Marvellous
+Welcome to Python Programming.
+This is Assignment 28.
+Learning File Handling.
+Have a nice day!
